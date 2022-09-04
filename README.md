@@ -12,7 +12,7 @@ Backend ( Terminal 2 )
 ```console
 env\scripts\activate
 sudo pip install -r req.txt
-uvicorn Main:app --reload
+uvicorn main:app --reload
 ```
 
 
